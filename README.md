@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CharlieLloydW, real name is Charlie Windhorst
+- 👀 I’m interested in connecting with developers as I am a recruiter in the tech industry.
+- 🌱 I’m currently learning Javascript from a friend who is a front-end developer.
+- 💞️ I’m looking to collaborate on sharing knowledge.
+- 📫 How to reach me, you can always send me a message on Github, LinkedIn or send me an email.
